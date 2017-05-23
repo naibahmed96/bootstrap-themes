@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/typehead
+END
+demo.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/typehead/demo.js
+END
+typeahead.bundle.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/typehead/typeahead.bundle.min.js
+END
+typehead.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/typehead/typehead.css
+END

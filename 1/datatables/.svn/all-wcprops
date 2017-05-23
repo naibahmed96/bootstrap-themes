@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables
+END
+demo.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables/demo.js
+END
+jquery.dataTables.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables/jquery.dataTables.min.js
+END
+growthrate.csv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables/growthrate.csv
+END
+datatable.json
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables/datatable.json
+END
+jquery.csv-0.71.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables/jquery.csv-0.71.min.js
+END
+datatables.css
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/datatables/datatables.css
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot
+END
+demo.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/demo.js
+END
+jquery.flot.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.min.js
+END
+jquery.flot.orderBars.js
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.orderBars.js
+END
+jquery.flot.spline.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.spline.js
+END
+jquery.flot.tooltip.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.tooltip.min.js
+END
+jquery.flot.grow.js
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.grow.js
+END
+jquery.flot.pie.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.pie.min.js
+END
+jquery.flot.resize.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/charts/flot/jquery.flot.resize.js
+END

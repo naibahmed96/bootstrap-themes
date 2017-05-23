@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/nestable
+END
+demo.js
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/nestable/demo.js
+END
+nestable.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/nestable/nestable.css
+END
+jquery.nestable.js
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/nestable/jquery.nestable.js
+END

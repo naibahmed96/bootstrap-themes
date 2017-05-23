@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/libs
+END
+backbone-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/libs/backbone-min.js
+END
+underscore-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/libs/underscore-min.js
+END
+moment.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/libs/moment.min.js
+END
+backbone.localStorage-min.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/libs/backbone.localStorage-min.js
+END

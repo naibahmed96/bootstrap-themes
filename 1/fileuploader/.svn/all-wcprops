@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/fileuploader
+END
+loading.gif
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/fileuploader/loading.gif
+END
+fileuploader.css
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/fileuploader/fileuploader.css
+END
+fileuploader.js
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/fileuploader/fileuploader.js
+END
+fileuploader_custom.css
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/fileuploader/fileuploader_custom.css
+END

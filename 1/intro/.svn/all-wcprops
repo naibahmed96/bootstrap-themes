@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/intro
+END
+demo.js
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/intro/demo.js
+END
+introjs.css
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/intro/introjs.css
+END
+intro.min.js
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/iopsadmin/!svn/ver/200/trunk/02src/app/static/js/intro/intro.min.js
+END
